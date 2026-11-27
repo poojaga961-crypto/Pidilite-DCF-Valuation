@@ -3,6 +3,7 @@
 An Excel-based Discounted Cash Flow (DCF) model valuing **Pidilite Industries Ltd** (NSE: PIDILITIND), built as a valuation portfolio project.
 
 **Prepared by:** Pooja G A, CA Finalist
+
 **Valuation date:** 27 Nov 2026 | **Base year:** FY2025-26 (consolidated) | **Figures:** ₹ crore
 
 ## Objective
